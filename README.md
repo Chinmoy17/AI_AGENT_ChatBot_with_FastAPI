@@ -124,6 +124,7 @@ streamlit run frontend.py
 ```
 
 ⚠️ **IMPORTANT:** Run the backend (`backend.py`) in a separate terminal window before launching the frontend.
+Also, the .env file is not in this repository as sharing API keys is not safe. Please create a .env file and add your API keys.
 
 ---
 
