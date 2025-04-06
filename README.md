@@ -132,7 +132,8 @@ streamlit run frontend.py
 > Add screenshots by uploading them and linking here:
 >
 > ```markdown
-> ![UI Screenshot](assets/screenshot.png)
+> ![UI Screenshot](1.png)
+> ![UI Screenshot](2.png)
 > ```
 
 ---
