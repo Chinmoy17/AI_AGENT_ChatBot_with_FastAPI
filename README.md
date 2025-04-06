@@ -154,5 +154,5 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Created with ❤️ by [Your Name](https://github.com/your-username)  
+Created with ❤️ by [Chinmoy Mitra](https://github.com/Chinmoy17)  
 Feel free to open issues or contribute!
